@@ -1183,7 +1183,7 @@
    "options": [
     ""
    ],
-   "answer": "\u591a\u79cd\u6240\u6709\u5236\u7ecf\u6d4e\u5171\u540c\u53d1\u5c55",
+   "answer": "\u575a\u6301\u516c\u6709\u5236\u4e3a\u4e3b\u4f53\u3001\u591a\u79cd\u6240\u6709\u5236\u7ecf\u6d4e\u5171\u540c\u53d1\u5c55",
    "excludes": "",
    "notes": ""
 },
@@ -2191,11 +2191,11 @@
 {
    "id": 200,
    "category": "\u586b\u7a7a\u9898",
-   "content": "\u9009\u62e9\u6b63\u786e\u7684\u8bfb\u97f3\u3002\u5fe7\u5fc3\u5fe1\u5fe1\u0020\u007a\u0068\u014d\u006e\u0067",
+   "content": "\u9009\u62e9\u6b63\u786e\u7684\u8bfb\u97f3\u3002\u5fe7\u5fc3\u5fe1\u5fe1\u007a\u0068\u014d\u006e\u0067",
    "options": [
     ""
    ],
-   "answer": "\u5fe7\u5fc3\u5fe1\u5fe1\u0020\u0063\u0068\u014d\u006e\u0067",
+   "answer": "\u5fe7\u5fc3\u5fe1\u5fe1\u0063\u0068\u014d\u006e\u0067",
    "excludes": "",
    "notes": ""
 },
@@ -2239,7 +2239,7 @@
    "options": [
     ""
    ],
-   "answer": "\u300a\u5929\u4ed9\u914d\u300b",
+   "answer": "B",
    "excludes": "",
    "notes": ""
 },
@@ -2377,12 +2377,12 @@
 },
 {
    "id": 217,
-   "category": "\u586b\u7a7a\u9898",
-   "content": "\u4e2d",
+   "category": "填空题",
+   "content": "中国的农历是一种历。",
    "options": [
     ""
    ],
-   "answer": "\u9131",
+   "answer": "阴阳",
    "excludes": "",
    "notes": ""
 }
