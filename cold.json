@@ -2517,6 +2517,94 @@
  "answer": "惊雷",
  "excludes": "",
  "notes": ""
+},
+{
+ "id": 230,
+ "category": "填空题",
+ "content": "钢琴是通过手指弹奏琴键引起琴槌敲击琴弦而发音的乐器。",
+ "options": [
+  ""
+ ],
+ "answer": "键盘",
+ "excludes": "",
+ "notes": ""
+},
+{
+ "id": 231,
+ "category": "填空题",
+ "content": "在五线谱上用来确定音高位置的符号叫作。",
+ "options": [
+  ""
+ ],
+ "answer": "谱号",
+ "excludes": "",
+ "notes": ""
+},
+{
+ "id": 232,
+ "category": "填空题",
+ "content": "符头可以记在五线谱的线上与间内，表示音的。",
+ "options": [
+  ""
+ ],
+ "answer": "高低",
+ "excludes": "",
+ "notes": ""
+},
+{
+ "id": 233,
+ "category": "填空题",
+ "content": "在乐谱的结尾处有一细一粗的两条竖线来表示乐曲的结束，叫作。",
+ "options": [
+  ""
+ ],
+ "answer": "终止线",
+ "excludes": "",
+ "notes": ""
+},
+{
+ "id": 234,
+ "category": "填空题",
+ "content": "五线谱的五条线和四个间，共有个音位。",
+ "options": [
+  ""
+ ],
+ "answer": "九",
+ "excludes": "",
+ "notes": ""
+},
+{
+ "id": 235,
+ "category": "填空题",
+ "content": "五线谱是由五条距离的平行横线和由五条线形成的四个间组成。",
+ "options": [
+  ""
+ ],
+ "answer": "相等",
+ "excludes": "",
+ "notes": ""
+},
+{
+ "id": 236,
+ "category": "填空题",
+ "content": "创作于1959年的，是美国电影《音乐之声》中的插曲。这是一首优美抒情、充满浪漫色彩的歌曲。",
+ "options": [
+  ""
+ ],
+ "answer": "《雪绒花》",
+ "excludes": "",
+ "notes": ""
+},
+{
+ "id": 237,
+ "category": "填空题",
+ "content": "从艺术的角度来讲，音乐是人类共同的语言，而则是用来记录这种语言的符号。这也是世界各国通用的一种科学的记谱方法。",
+ "options": [
+  ""
+ ],
+ "answer": "五线谱",
+ "excludes": "",
+ "notes": ""
 }
 
 
