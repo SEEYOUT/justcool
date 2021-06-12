@@ -24,7 +24,7 @@
   {
       "id": 3,
       "category": "单选题",
-      "content": "河北省唐山市的乐亭县，读音正确的是。",
+      "content": "河北省唐山市的乐亭县，读音正确的是。乐（lào）亭县",
       "options": [
           ""
       ],
@@ -2114,7 +2114,7 @@
 {
  "id": 193,
  "category": "填空题",
- "content": "为“对簿公堂”的“簿”选择正确读音。",
+ "content": "为“对簿公堂”的“簿”选择正确读音。bó",
  "options": [
   ""
  ],
@@ -5663,6 +5663,28 @@
    "answer": "有权",
    "excludes": "",
    "notes": ""
+},
+{
+ "id": 516,
+ "category": "填空题",
+ "content": "选择正确的读音。忧心忡忡zhōng",
+ "options": [
+  ""
+ ],
+ "answer": "忧心忡忡chōng",
+ "excludes": "",
+ "notes": ""
+},
+{
+ "id": 517,
+ "category": "填空题",
+ "content": "选择正确的读音。惆怅chóuchàng",
+ "options": [
+  ""
+ ],
+ "answer": "惆怅chóuchàng",
+ "excludes": "",
+ "notes": ""
 }
 
 
