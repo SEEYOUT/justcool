@@ -5795,11 +5795,22 @@
  "answer": "忧心忡忡chōng",
  "excludes": "",
  "notes": ""
-}
+},
 {
  "id": 528,
  "category": "填空题",
  "content": "选择正确的读音。惆怅chóuchàng",
+ "options": [
+  ""
+ ],
+ "answer": "惆怅chóuchàng",
+ "excludes": "",
+ "notes": ""
+},
+{
+ "id": 529,
+ "category": "填空题",
+ "content": "选择正确的读音。惆怅",
  "options": [
   ""
  ],
