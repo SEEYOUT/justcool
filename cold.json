@@ -6202,6 +6202,17 @@
  "answer": "莲花",
  "excludes": "",
  "notes": ""
+},
+{
+ "id": 565,
+ "category": "填空题",
+ "content": "离别是中国古典诗词中常用的主题。以下诗句中，无离别之意的是？",
+ "options": [
+  ""
+ ],
+ "answer": "返景入深林，复照青苔上。",
+ "excludes": "",
+ "notes": ""
 }
 
 
