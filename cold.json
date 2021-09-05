@@ -7607,7 +7607,18 @@
  "options": [
   ""
  ],
- "answer": "1997",
+ "answer": "苏联",
+ "excludes": "",
+ "notes": ""
+},
+{
+ "id": 693,
+ "category": "填空题",
+ "content": "20210905",
+ "options": [
+  ""
+ ],
+ "answer": "20210905",
  "excludes": "",
  "notes": ""
 }
