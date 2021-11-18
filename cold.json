@@ -8966,35 +8966,68 @@
  "notes": ""
 },
 {
- "id": ,
+ "id": 816,
  "category": "填空题",
- "content": "",
+ "content": "鸟巢是鸟类终生栖居的家。",
  "options": [
   ""
  ],
- "answer": "",
+ "answer": "错误",
  "excludes": "",
  "notes": ""
 },
 {
- "id": ,
+ "id": 817,
  "category": "填空题",
- "content": "",
+ "content": "蛙属于动物。",
  "options": [
   ""
  ],
- "answer": "",
+ "answer": "变温",
  "excludes": "",
  "notes": ""
 },
 {
- "id": ,
+ "id": 818,
+ "category": "填空题",
+ "content": "所有的两栖动物进入海水里，都会因为脱水而死亡。这种说法是的。",
+ "options": [
+  ""
+ ],
+ "answer": "错误",
+ "excludes": "",
+ "notes": ""
+},
+{
+ "id": 819,
+ "category": "填空题",
+ "content": "龟非常嗜睡，大多数要冬眠；有的还要夏眠。这种说法是的。",
+ "options": [
+  ""
+ ],
+ "answer": "正确",
+ "excludes": "",
+ "notes": ""
+},
+{
+ "id": 820,
+ "category": "填空题",
+ "content": "一般情况下，雌蛙发出的声音没有雄蛙洪亮，这种说法是的。",
+ "options": [
+  ""
+ ],
+ "answer": "正确",
+ "excludes": "",
+ "notes": ""
+},
+{
+ "id": 820,
  "category": "填空题",
  "content": "",
  "options": [
   ""
  ],
- "answer": "",
+ "answer": "DH",
  "excludes": "",
  "notes": ""
 }
